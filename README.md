@@ -15,10 +15,18 @@ Course Recommendations with Machine Learning
 We used natural language processing (NLP) to build a machine learning program that identifies and recommends relevant courses based on the user’s input.
 
 ## Dataset Source
-'Course Relevance Dataset' from Kaggle
-[Dataset Link](https://www.kaggle.com/datasets/prasad22/course-relevance-dataset)
-
+'Course Relevance Dataset' from [Kaggle] (https://www.kaggle.com/datasets/prasad22/course-relevance-dataset)
 Total data points n = 905
+
+| Data Attributes         | Description                                              | Data Type |
+|-------------------------|----------------------------------------------------------|-----------|
+| SrNo                    | Serial Number                                            | Integer   |
+| Name Of the Program     | Graduation or Post Graduation Program                    | String    |
+| Type of Course          | Subject Name within selected program                     | String    |
+| Code                    | Subject Code                                             | String    |
+| Need                    | Type of Developmental Need the subject is catering to    | String    |
+| Description of the need | Description of Developmental Need associated to the subject | String |
+
 
 ## Machine Learning Tools 
 - **PySpark**
@@ -30,7 +38,9 @@ Total data points n = 905
 - **Stop words**
 - **Sklearn**
 - **TF-IDF**
- - ((Term Frequency (TF) – Measures how often a word appears in a document, with more frequent words getting higher scores. Inverse Document Frequency (IDF) – Highlights unique words by lowering the score of common words. TF-IDF essentially combines TF and IDF to give a balanced score. It’s a technique to quantify important or rare words that appear frequently in documents))
+ - Term Frequency (TF) – Measures how often a word appears in a document, with more frequent words getting higher scores.
+ - Inverse Document Frequency (IDF) – Highlights unique words by lowering the score of common words.
+ - TF-IDF essentially combines TF and IDF to give a balanced score. It’s a technique to quantify important or rare words that appear frequently in documents
 - **Nearest Neighbor**
 
 ## Data Model Preparation and Optimization
