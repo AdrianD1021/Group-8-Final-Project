@@ -1,6 +1,8 @@
 # Group-8-Final-Project
 Project Name: Course Recommendations with Machine Learning
+
 Project Overview: We used natural language processing (NLP) to build a machine learning program that identifies and recommends relevant courses based on the user’s input.
+
 Data Set Source: Course Relevance Dataset from Kaggle
 
 Machine Learning Tools: 
