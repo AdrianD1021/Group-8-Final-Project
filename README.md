@@ -17,6 +17,7 @@ We used natural language processing (NLP) to build a machine learning program th
 ## Dataset Source
 
 **'Course Relevance Dataset' from [Kaggle](https://www.kaggle.com/datasets/prasad22/course-relevance-dataset)**
+
 **Source:** https://www.kaggle.com/datasets/prasad22/course-relevance-dataset
 
 **Total data points**: n = 905
