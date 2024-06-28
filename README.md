@@ -3,7 +3,7 @@ Project Name: Course Recommendations with Machine Learning
 
 Project Overview: We used natural language processing (NLP) to build a machine learning program that identifies and recommends relevant courses based on the user’s input.
 
-Data Set Source: Course Relevance Dataset from Kaggle
+Data Set Source: Course Relevance Dataset from Kaggle Total data points n = 905
 
 Machine Learning Tools: 
 PySpark
@@ -21,5 +21,5 @@ Data Model Preparation and optimization : Created a new column ‘Robust’ by c
 
 Limitation and Future Development: Based on the data fed i.e course description into the model, it will pick up results that might not necessarily relate to the course you’re looking for as a whole. In the future, the code should adapt to new data or user interactions over time to make the results more accurate to the course that the user is looking for. Build a user-friendly interface for inputting searches and viewing recommendations using Flask. Part of speech could be incorporated in the Lemmatizer, providing more accuracy to Lemmatized words.
 
-Ethical Consideration: Bias and Fairness, Privacy and Consent and Misuse and Manipulation
+Ethical Consideration: Bias and Fairness, Privacy and Consent and Misuse and Manipulation. No ethical concerns for this project
  
