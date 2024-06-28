@@ -50,8 +50,8 @@ We used natural language processing (NLP) to build a machine learning program th
 ## Data Model Preparation and Optimization
 1. Created a new column ‘Robust’ by combining 3 other columns to enhance the search function.
 2. Checked for missing values in the dataset.
-3. Used WordNetLemmatizer() to convert the robust description to their basic word forms.
-4. Used TfidfVectorizer() to convert the text data into numerical vectors.
+3. Used `WordNetLemmatizer()` to convert the robust description to their basic word forms.
+4. Used `TfidfVectorizer()` to convert the text data into numerical vectors.
 
 ## Limitation and Future Development
 ### Limitations
