@@ -7,7 +7,7 @@ Course Recommendations with Machine Learning
 - Cataldo Cocuzza
 - Adrian Dayrit
 - Kefan Liao
-- Fay Muhammad
+- Fawziyya Muhammad
 - Robert Rose
 - Christopher Scarlata
 
